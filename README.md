@@ -12,8 +12,6 @@ Transform your imagination into reality with VisioArt, an AI-driven platform des
 **START HERE**: https://fenneccyber.duckdns.org
 ------------------------------------------------
 
-![Screenshot 2025-02-10 201437](https://github.com/user-attachments/assets/a5059147-5e5c-4764-a637-ab0d28ec717c)
-
 ![Screenshot 2025-02-11 152613](https://github.com/user-attachments/assets/83833fd4-35f1-4ab1-bcd7-71b76de07027)
 
 ![download (6)](https://github.com/user-attachments/assets/8471dcb7-85fd-4df4-a218-c2ff480efe0f)
