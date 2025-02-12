@@ -1,7 +1,7 @@
 # VisioArt
 VisioArt is an advanced AI-powered image generation platform designed to bring creative visions to life. VisioArt provides an intuitive way to generate high-quality visuals from text prompts. With its flexible Buzz credit system, real-time rendering, and interactive gallery. VisioArt is locally hosted on a one NVIDIA 4070 Super GPU.
 
-![Screenshot 2025-02-10 201412](https://github.com/user-attachments/assets/94ca9e5e-14a5-4901-8106-8102b7d36cce)
+![image](https://github.com/user-attachments/assets/b275f00c-1fdf-434a-87d1-bdb5be337271)
 
 ------------------------------------------------
 
