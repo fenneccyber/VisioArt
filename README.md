@@ -12,6 +12,7 @@ Transform your imagination into reality with VisioArt, an AI-driven platform des
 **START HERE**: https://visioart.duckdns.org
 ------------------------------------------------
 
+![image](https://github.com/user-attachments/assets/d86feee3-3583-4fc6-ba29-eca4fd0910ea)
 
 ![download (6)](https://github.com/user-attachments/assets/8471dcb7-85fd-4df4-a218-c2ff480efe0f)
 
